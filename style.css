@@ -1,0 +1,26 @@
+ body {
+     background-color: #a3a37c;
+ }
+
+ .hero {
+     min-height: 90vh;
+     display: flex;
+     align-items: center;
+ }
+
+ .hero h1 {
+     font-weight: 700;
+     font-size: 48px;
+     color: white;
+ }
+
+ .btn-custom {
+     border-radius: 30px;
+     padding: 10px 25px;
+ }
+
+ .last-img {
+
+     height: 500px;
+     object-fit: cover;
+ }
